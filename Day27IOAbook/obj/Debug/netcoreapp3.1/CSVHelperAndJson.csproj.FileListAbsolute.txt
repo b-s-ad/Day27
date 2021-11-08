@@ -1,0 +1,49 @@
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.exe
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.deps.json
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.runtimeconfig.json
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.runtimeconfig.dev.json
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.dll
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.pdb
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.csproj.AssemblyReference.cache
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.AssemblyInfoInputs.cache
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.AssemblyInfo.cs
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.csproj.CoreCompileInputs.cache
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.csproj.CopyComplete
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.dll
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.pdb
+D:\Dot Net\Days\oct\21Oct CSVHelperAndJson\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.genruntimeconfig.cache
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.exe
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.deps.json
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.runtimeconfig.json
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.runtimeconfig.dev.json
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.dll
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.pdb
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.csproj.AssemblyReference.cache
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.AssemblyInfoInputs.cache
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.AssemblyInfo.cs
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.csproj.CoreCompileInputs.cache
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.dll
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.pdb
+C:\Users\Userr\source\repos\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.genruntimeconfig.cache
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.exe
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.deps.json
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.runtimeconfig.json
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.dll
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CSVHelperAndJson.pdb
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.AssemblyInfo.cs
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.dll
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.pdb
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.genruntimeconfig.cache
+C:\Users\Userr\Desktop\bash\CSVHelperAndJson\CSVHelperAndJson\obj\Debug\netcoreapp3.1\CSVHelperAndJson.csproj.AssemblyReference.cache
